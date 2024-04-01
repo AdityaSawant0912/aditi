@@ -5,7 +5,7 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-    title: "Next.js E-commerce",
+    title: "Readopia",
     description: "Created by Aditya Sawant for Aditi Mahadik",
 };
 
@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
     return (
         <html lang="en">
             <Head>
-                <title>Next.js E-commerce</title>
+                <title>Readopia</title>
                 <meta name="description" content="Your e-commerce website description" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>

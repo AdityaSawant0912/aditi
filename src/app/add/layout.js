@@ -7,12 +7,12 @@ const layout = ({ children }) => {
             <nav className="bg-gray-800 text-white py-4">
                 <div className="container mx-auto flex justify-between items-center">
                     <Link href="/">
-                        <span className="text-xl font-semibold">E-commerce</span>
+                        <span className="text-xl font-semibold">Readopia</span>
                     </Link>
                     <ul className="flex space-x-4">
                         <li>
                             <Link href="/products">
-                                <span className="hover:text-gray-300">Products</span>
+                                <span className="hover:text-gray-300">Books</span>
                             </Link>
                         </li>
                     </ul>

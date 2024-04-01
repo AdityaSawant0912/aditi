@@ -108,8 +108,9 @@ const Home = () => {
 
             <main className="bg-gray-100 ">
                 <div className='min-h-screen flex flex-col justify-center items-center'>
-                    <h1 className="text-3xl text-gray-700 font-bold mb-4">Welcome to Our E-commerce Store</h1>
-                    <p className="text-lg text-gray-700 mb-8">Discover amazing products at great prices.</p>
+                    <h1 className="text-3xl text-gray-700 font-bold mb-4">Welcome to Our E-commerce Store <span className='text-pink-500 underline'>Readopia</span></h1>
+                    <p className="text-lg text-gray-700 mb-8 max-w-[800px] text-center">
+                        Introducing Readopia - your literary paradise awaits! Immerse yourself in a world of boundless imagination and endless adventure. From timeless classics to contemporary masterpieces, Readopia offers a curated selection of books to satisfy every reader&apos;s craving. Explore diverse genres, discover hidden gems, and embark on unforgettable journeys through the power of storytelling. With Readopia, your next great read is just a click away. Join us and unlock the magic of literature today.</p>
                 </div>
                 
 
