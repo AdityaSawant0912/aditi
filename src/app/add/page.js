@@ -67,7 +67,7 @@ const AddProduct = () => {
                                     <label className="text-gray-700 block">Image URL:</label>
                                     <input type="text" name="imageUrl" value={product.imageUrl} onChange={handleChange} className="border border-gray-300 px-3 py-2 rounded-md w-full" />
                                 </div>
-                                <button type="submit" className="bg-blue-500 text-white py-2 px-4 rounded-md">Add Product</button>
+                                <button type="submit" className="bg-blue-500 text-white py-2 px-4 rounded-md">Add Book</button>
                             </form>
                         </div>
                     </div>
